@@ -1,0 +1,16 @@
+archivo1
+archivo2
+archivo2
+bd1
+null
+Mensaje en archivo.
+Mensaje en archivo.
+Mensaje en archivo.
+Mensaje en archivo.
+Mensaje en archivo.
+Mensaje en archivo.
+Mensaje en archivo.
+Mensaje en archivo.
+arc
+archivo
+Mensaje en archivo.
